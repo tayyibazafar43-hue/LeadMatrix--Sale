@@ -1,0 +1,6 @@
+{
+  "name": "LeadMatrix — Sales Lead Qualification Engine",
+  "description": "Enterprise AI/ML sales lead qualification platform featuring real-time predictive scoring, automated review queues, drift monitoring, bulk CSV processing, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
